@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Factory Carts Manager</string>
+    <string name="refresh_carts">Refresh Carts</string>
+</resources>
