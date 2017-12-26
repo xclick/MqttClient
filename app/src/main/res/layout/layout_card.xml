@@ -19,7 +19,7 @@
             android:orientation="vertical"
             android:gravity="center"
             >
-            <button
+
             <TextView
                 android:id="@+id/cart_status"
                 android:layout_width="match_parent"
