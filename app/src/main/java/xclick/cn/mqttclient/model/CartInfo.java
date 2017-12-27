@@ -4,7 +4,7 @@ package xclick.cn.mqttclient.model;
  * Created by Huwei on 2017/12/26.
  */
 
-public class CardInfo {
+public class CartInfo {
     private String id ;
     private String name ;
     private String status ;
